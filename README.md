@@ -1,1 +1,1 @@
-pratcice sem
+npratcice sem

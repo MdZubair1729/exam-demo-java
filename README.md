@@ -1,1 +1,1 @@
-npratcice sem
+FROM git practice
